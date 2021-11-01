@@ -44,7 +44,7 @@ Visit my [Publications page](/publications) for some of my recent publications, 
 * Ph.D. Physics, [Indiana University](https://physics.indiana.edu) (2019)  
 <sub>Advisor: Adam P. Szczepaniak</sub>  
 <sub>Thesis: [*Studies in Multiparticle Scattering Theory*](https://inspirehep.net/files/4dabaa818d628adf5743fa9b7f09e282)</sub>  
-* M.S. Physics, [Indiana University](https://physics.indiana.edu) (2017)
+* M.S. Physics, Indiana University (2017)
 * B.S. Physics, Purdue University Northwest (2013)
 * B.S. Mechanical Engineering, Purdue University Northwest (2011)
 
