@@ -6,8 +6,7 @@ sections:
     type: section_hero
     title: 'Hi, I''m Andrew Jackura'
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Theoretical physicist studying few-body nuclear reactions.
   - section_id: about
     type: section_content
     title: About
@@ -26,30 +25,21 @@ sections:
         url: blog/index.html
         style: button
 seo:
-  title: Andrew Jackura
-  description: The preview of the Fresh theme
+  title: Andrew W. Jackura
+  description: Personal website of Andrew Jackura
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Fresh Theme
+      value: Andrew W. Jackura
       keyName: property
     - name: 'og:description'
-      value: The preview of the Fresh theme
+      value: Personal website of Andrew Jackura
       keyName: property
     - name: 'og:image'
       value: images/4.jpg
       keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Stackbit Fresh Theme
-    - name: 'twitter:description'
-      value: The preview of the Fresh theme
-    - name: 'twitter:image'
-      value: images/4.jpg
       relativeUrl: true
 layout: advanced
 ---

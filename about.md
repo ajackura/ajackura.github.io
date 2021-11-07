@@ -19,15 +19,6 @@ seo:
       value: images/AndrewJackura.jpg
       keyName: property
       relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: About Me
-    - name: 'twitter:description'
-      value: This is the about me page
-    - name: 'twitter:image'
-      value: images/AndrewJackura.jpg
-      relativeUrl: true
 layout: page
 ---
 
