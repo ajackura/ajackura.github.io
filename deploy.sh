@@ -5,6 +5,8 @@ if [[ -z "$1" ]]; then
   exit
 fi
 
+bundle exec jekyll build
+
 cd _site && \
 git add . && \
 git commit -m "$1" && \
