@@ -1,7 +1,7 @@
 ---
 title: Teaching
 subtitle: >-
-  This page shows examples of my teaching, including mentorships
+  
 seo:
   title: Teaching - Andrew Jackura
   description: Page about my teaching information
@@ -23,23 +23,20 @@ seo:
 layout: page
 ---
 
-**This is a paragraph**. Pellentesque habitant morbi *tristique senectus et netus et malesuada* fames ac turpis egestas. Vestibulum [tortor quam](https://www.google.com), feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit <mark>amet est et sapien ullamcorper</mark> pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.
+Below I list some teaching and outreach experiences, along with links to lectures and exercise notebooks I have created.
 
 
 ### REYES Nuclear Physics Mentor Program 2021
 
-[Remote Experience for Young Engineers and Scientists (REYES)](https://www.odu.edu/reyes)
+I co-hosted the **Nuclear Physics Mentor Program** through [Remote Experience for Young Engineers and Scientists (REYES)](https://www.odu.edu/reyes) in the summer/fall of 2021.  Our goal was to introduce concepts of QCD, scattering theory, and nuclear spectroscopy to a broad audience. I wrote a set of lectures and Python notebooks on the basic mathematical and physical concepts needed to understand nuclear interactions. The video playlist for the lectures can be found [here](https://www.youtube.com/playlist?list=PLVs7RfracJBa1BpHAcw_MEoJP2zy57lNl), and the lecture slides and Python exercise notebooks are located [here](https://github.com/ajackura/NuclearPhysicsMentorProgram2021).
 
-[Playlist](https://www.youtube.com/playlist?list=PLVs7RfracJBa1BpHAcw_MEoJP2zy57lNl)
 
 
 ### Lattice Practices 2021
 
-In June 28 – July 16, 2021, I participated in the [INT Summer School on Problem Solving in Lattice QCD](https://sites.google.com/uw.edu/lqcdschool2021), where I developed numerical exercises for the Hadron Spectroscopy lectures
+In June 28 – July 16, 2021, I participated in the [INT Summer School on Problem Solving in Lattice QCD](https://sites.google.com/uw.edu/lqcdschool2021), where I developed numerical exercises for the Hadron Spectroscopy lectures. Ra\'ul Brice\~no was the main lecturer, and his lecture videos are linked [here](https://www.youtube.com/playlist?list=PLDi14w7i5C3Bm3U1IQ4n596UZQhOpr1Cx). The exercises are located [here](https://github.com/ajackura/LatticeSummerSchool2021-ScatteringExercises).
 
-[Playlist](https://www.youtube.com/playlist?list=PLDi14w7i5C3Bm3U1IQ4n596UZQhOpr1Cx)
+### Indiana University Summer School on Reaction Theory 2017
 
-### Indiana University Summer School on Reaction Theory 2018
-
-I taught lectures on Partial Wave Analysis and Resonances
+I taught lectures on Partial Wave Analysis and Resonances at the 2017 [Indiana University Summer School on Reaction Theory](http://cgl.soic.indiana.edu/jpac/schools.html). The school was organized by the [Joint Physics Analysis Center (JPAC)](http://cgl.soic.indiana.edu/jpac/index.php), with the purpose of education young researches on details of scattering theory for hadron spectroscopy. Video lectures and exercises can be found [here](http://cgl.soic.indiana.edu/jpac/schools.html).
 

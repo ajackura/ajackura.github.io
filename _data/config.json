@@ -12,22 +12,12 @@
         "nav_links": [
             {
                 "label": "Home",
-                "url": "/",
-                "style": "link"
-            },
-            {
-                "label": "About Me",
                 "url": "/about",
                 "style": "link"
             },
             {
                 "label": "Research Interests",
                 "url": "/research_interests",
-                "style": "link"
-            },
-            {
-                "label": "Education",
-                "url": "/education",
                 "style": "link"
             },
             {
@@ -38,11 +28,6 @@
             {
                 "label": "Publications",
                 "url": "/publications",
-                "style": "link"
-            },
-            {
-                "label": "Contact",
-                "url": "/contact",
                 "style": "link"
             }
         ],
