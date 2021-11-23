@@ -34,7 +34,7 @@ I co-hosted the **Nuclear Physics Mentor Program** through [Remote Experience fo
 
 ### Lattice Practices 2021
 
-In June 28 – July 16, 2021, I participated in the [INT Summer School on Problem Solving in Lattice QCD](https://sites.google.com/uw.edu/lqcdschool2021), where I developed numerical exercises for the Hadron Spectroscopy lectures. Ra\'ul Brice\~no was the main lecturer, and his lecture videos are linked [here](https://www.youtube.com/playlist?list=PLDi14w7i5C3Bm3U1IQ4n596UZQhOpr1Cx). The exercises are located [here](https://github.com/ajackura/LatticeSummerSchool2021-ScatteringExercises).
+In June 28 – July 16, 2021, I participated in the [INT Summer School on Problem Solving in Lattice QCD](https://sites.google.com/uw.edu/lqcdschool2021), where I developed numerical exercises for the Hadron Spectroscopy lectures.  Raúl A. Briceño was the main lecturer, and his lecture videos are linked [here](https://www.youtube.com/playlist?list=PLDi14w7i5C3Bm3U1IQ4n596UZQhOpr1Cx). The exercises are located [here](https://github.com/ajackura/LatticeSummerSchool2021-ScatteringExercises).
 
 ### Indiana University Summer School on Reaction Theory 2017
 
