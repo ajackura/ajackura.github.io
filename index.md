@@ -43,7 +43,7 @@ Visit my [Publications page](/publications) for some of my recent publications, 
 * B.S. Mechanical Engineering, Purdue University Northwest (2011)
 
 ### Awards & Grants
-* Recipient of *The 2021 Jefferson Science Associates Postdoctoral Prize*, 2021. $10,000
+* Recipient of *The 2021 Jefferson Science Associates Postdoctoral Prize*, 2021
 * Konopinkski Dissertation Award, Spring 2019
 * Outstanding Graduate Student in Research Award, Spring 2019
 * JSA Junior Scientist Travel Award, 2017, 2018, and 2019
