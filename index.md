@@ -31,7 +31,7 @@ I am a Postdoctoral Research Fellow in the Nuclear theory group at [Old Dominion
 
 Visit my [Publications page](/publications) for some of my recent publications, or view my complete list on my [INSPIRE profile](http://inspirehep.net/author/A.Jackura.1/). Contact me at <ajackura@odu.edu>.
 
-[***Curriculum Vitae*** (pdf)](/docs/cv_jackura.pdf) <sub>(last updated: October 2021)</sub>
+[***Curriculum Vitae*** (pdf)](/docs/cv_jackura.pdf) <sub>(last updated: November 2021)</sub>
 
 ### Education
 
