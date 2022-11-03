@@ -26,15 +26,23 @@ A complete listing of my publications can be found on my [INSPIRE profile](http:
 
 ### Recent Articles
 
-1. Raúl A. Briceño, Andrew W. Jackura, Felipe G. Ortega-Gama, Keegan H. Sherman,
-<span class="nocase">On-shell representations of two-body transition amplitudes: Single external current</span>, Phys. Rev. D. 103, 114512 (2021). <https://doi.org/10.1103/PhysRevD.103.114512>
 
-2. Andrew W. Jackura, Raúl A. Briceño, Sebastian M. Dawid, Md Habib E. Islam, Connor McCarty,
-<span class="nocase">Solving relativistic three-body integral equations in the presence of bound states</span>, Phys. Rev. D. 104, 014507 (2021). <https://doi.org/10.1103/PhysRevD.104.014507>
+1. Raúl A. Briceño, Andrew W. Jackura, Arkaitz Rodas and Juan V. Guerrero,
+<span class="nocase">Prospects for $\gamma^\star \gamma^\star \to \pi \pi$ via lattice QCD</span>, [arXiv:2210.08051 [hep-lat]](https://arxiv.org/pdf/2210.08051.pdf)
 
-3. Raúl A. Briceño, Maxwell T. Hansen, Andrew W. Jackura, <span class="nocase">Consistency checks for two-body finite-volume matrix elements: II. Perturbative systems</span>, Phys. Rev. D. 101, 094508 (2020). <https://doi.org/10.1103/PhysRevD.101.094508>
+2. Andrew W. Jackura, 
+<span class="nocase">Three-body scattering and quantization conditions from 
+S matrix unitarity</span>, [arXiv:2208.10587 [hep-lat]](https://arxiv.org/pdf/2208.10587.pdf)
 
-4. Raúl A. Briceño, Maxwell T. Hansen, Andrew W. Jackura, <span class="nocase">Consistency checks for two-body finite-volume matrix elements: I. Conserved currents and bound states</span>, Phys. Rev. D. 100, 114505 (2019). <https://doi.org/10.1103/PhysRevD.100.114505>
+3. Felipe G. Ortega-Gama, Keegan H. Sherman, Raúl A. Briceño, and Andrew W. Jackura, 
+<span class="nocase">Two-current transition amplitudes with two-body final states</span>, [Phys. Rev. D. 105, 114510 (2022)](hhttps://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.114510)
+
+4. Raúl A. Briceño, Andrew W. Jackura, Felipe G. Ortega-Gama, Keegan H. Sherman,
+<span class="nocase">On-shell representations of two-body transition amplitudes: Single external current</span>, [Phys. Rev. D. 103, 114512 (2021)](https://doi.org/10.1103/PhysRevD.103.114512)
+
+5. Andrew W. Jackura, Raúl A. Briceño, Sebastian M. Dawid, Md Habib E. Islam, Connor McCarty,
+<span class="nocase">Solving relativistic three-body integral equations in the presence of bound states</span>, [Phys. Rev. D. 104, 014507 (2021)](https://doi.org/10.1103/PhysRevD.104.014507)
+
 
 ### Recent Proceedings
 
