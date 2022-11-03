@@ -25,10 +25,16 @@ layout: page
 
 Below I list some teaching and outreach experiences, along with links to lectures and exercise notebooks I have created.
 
+### ODU University Physics I
+In Fall 2022, I was offered the opportunity to lecture Physics 226N/231N/261N - University Physics I, the introductory physics course for scientists and engineers at Old Dominion University.
 
-### REYES Nuclear Physics Mentor Program 2021
+### RPI Computational Summer School 2022
+I gave a set of lectures on introductory scattering theory and lattice QCD for hadron spectroscopy at the Rensselaer Polytechnic Institute (RPI) computational summer school 2022. I prepared a set of exercises in Python using Jupyter notebooks which can be found
+[here](https://github.com/ajackura/RPISummerSchoolHadspec).
 
-I co-hosted the **Nuclear Physics Mentor Program** through [Remote Experience for Young Engineers and Scientists (REYES)](https://www.odu.edu/reyes) in the summer/fall of 2021.  Our goal was to introduce concepts of QCD, scattering theory, and nuclear spectroscopy to a broad audience. I wrote a set of lectures and Python notebooks on the basic mathematical and physical concepts needed to understand nuclear interactions. The video playlist for the lectures can be found [here](https://www.youtube.com/playlist?list=PLVs7RfracJBa1BpHAcw_MEoJP2zy57lNl), and the lecture slides and Python exercise notebooks are located [here](https://github.com/ajackura/NuclearPhysicsMentorProgram2021).
+### REYES Nuclear Physics Mentor Program
+
+I co-hosted the **Nuclear Physics Mentor Program** through [Remote Experience for Young Engineers and Scientists (REYES)](https://www.odu.edu/reyes) in the summer/fall of 2021 and 2022.  Our goal was to introduce concepts of QCD, scattering theory, and nuclear spectroscopy to a broad audience. I wrote a set of lectures and Python notebooks on the basic mathematical and physical concepts needed to understand nuclear interactions. The video playlist for the 2021 lectures can be found [here](https://www.youtube.com/playlist?list=PLVs7RfracJBa1BpHAcw_MEoJP2zy57lNl), and the lecture slides and Python exercise notebooks are located [here](https://github.com/ajackura/NuclearPhysicsMentorProgram2021). The 2022 playlist is located [here](https://www.youtube.com/playlist?list=PLVs7RfracJBZIfpGtLLZR1iCdqeRY2nzm).
 
 
 
