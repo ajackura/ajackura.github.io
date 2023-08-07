@@ -31,7 +31,7 @@ I am an Assistant Professor in the Nuclear theory group at William & Mary. My re
 
 <!-- I am a member of the [Hadron Spectrum collaboration](https://jeffersonlab.github.io/hadspec/), and an affiliated member of the [Joint Physics Analysis Center](http://cgl.soic.indiana.edu/jpac/index.php).  -->
 
-Visit my [Publications page](/publications) for some of my recent publications, or view my complete list on my [INSPIRE profile](http://inspirehep.net/author/A.Jackura.1/). Contact me at <ajackura@odu.edu>.
+Visit my [Publications page](/publications) for some of my recent publications, or view my complete list on my [INSPIRE profile](http://inspirehep.net/author/A.Jackura.1/). Contact me at <awjackura@wm.edu>.
 
 [***Curriculum Vitae*** (pdf)](/docs/cv_jackura.pdf) <sub>(last updated: November 2022)</sub>
 
