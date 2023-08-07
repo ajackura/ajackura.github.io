@@ -25,7 +25,7 @@ layout: page
 
 <!-- ![Andrew Jackura](/images/AndrewJackura.jpg){:width="500px"} -->
 
-<img style="float: center;" width="400px" src="/images/AndrewJackura.jpg">
+<!-- <img style="float: center;" width="400px" src="/images/AndrewJackura.jpg"> -->
 
 I am an Assistant Professor in the Nuclear theory group at William & Mary. My research interests are in hadron and nuclear reactions, hadron spectroscopy, few-body dynamics, and Lattice Quantum Chromodynamics.
 
