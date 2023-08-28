@@ -1,2 +1,2 @@
-# ajackura_personal_webpage
+# ajackura personal website
 
