@@ -5,11 +5,8 @@ if [[ -z "$1" ]]; then
   exit
 fi
 
-bundle exec jekyll build
-
-cd _site && \
 git add . && \
 git commit -m "$1" && \
-git push origin gh-pages && \
+git push origin master && \
 cd .. && \
-echo "Successfully built and pushed gh-pages to Github."
+echo "Successfully built and pushed gh-pages to github."
